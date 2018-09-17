@@ -1,5 +1,6 @@
 <?php
 /**
+* Estonian translation by phpBBestonia.eu <https://www.phpbbestonia.eu>
 *
 * Board Announcements extension for the phpBB Forum Software package.
 *
@@ -38,5 +39,5 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'BOARD_ANNOUNCEMENT_CLOSE'		=> 'Close announcement',
+	'BOARD_ANNOUNCEMENT_CLOSE'		=> 'Sulge teadaanne',
 ));
