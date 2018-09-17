@@ -1,5 +1,6 @@
 <?php
 /**
+* Estonian translation by phpBBestonia.eu <https://www.phpbbestonia.eu>
 *
 * Board Announcements extension for the phpBB Forum Software package.
 *
@@ -39,9 +40,9 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	// ACP Module
-	'ACP_BOARD_ANNOUNCEMENTS'				=> 'Board Announcements',
-	'ACP_BOARD_ANNOUNCEMENTS_SETTINGS'		=> 'Announcement settings',
+	'ACP_BOARD_ANNOUNCEMENTS'				=> 'Foorumi teadaanne',
+	'ACP_BOARD_ANNOUNCEMENTS_SETTINGS'		=> 'Teadaande seaded',
 
 	// ACP Logs
-	'BOARD_ANNOUNCEMENTS_UPDATED_LOG'		=> '<strong>Altered board announcement settings</strong>',
+	'BOARD_ANNOUNCEMENTS_UPDATED_LOG'		=> '<strong>Foorumi Teadaannete seaded muudetud</strong>',
 ));
