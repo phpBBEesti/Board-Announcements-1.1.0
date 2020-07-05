@@ -1,6 +1,6 @@
 <?php
 /**
-* Estonian translation by phpBBestonia.eu <https://www.phpbbestonia.eu>
+* Estonian translation by phpBBeesti.ee [Exabot]
 *
 * Board Announcements extension for the phpBB Forum Software package.
 *
